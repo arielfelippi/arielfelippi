@@ -18,7 +18,6 @@ Would you like to find me?
 
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.com/channels/@arielfelippi#6310)](https://discord.com/channels/@arielfelippi#6310)
 
-[![Infoserv](https://img.shields.io/badge/Infoserv_School-5FB709?style=for-the-badge&logo=infoserv-school&logoColor=white&link=http://www.escolainfoserv.com.br)](http://www.escolainfoserv.com.br)
 
 <!--
 **arielfelippi/arielfelippi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

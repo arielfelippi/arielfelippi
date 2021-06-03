@@ -9,9 +9,13 @@ In my free time I like to play (and watch) poker (♦️♠️♥️♣️), to 
 
 Would you like to find me?
 
-Twitter: twitter.com/arielfelippi
-Github: github.com/arielfelippi
-Instagram: instagram.com/arielfelippi
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/arielfelippi)](https://twitter.com/arielfelippi)
+
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/arielfelippi)]
+(https://instagram.com/arielfelippi)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arielfelippi)](https://www.linkedin.com/in/arielfelippi)
 
 <!--
 **arielfelippi/arielfelippi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

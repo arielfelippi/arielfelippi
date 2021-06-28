@@ -10,8 +10,6 @@ In my free time I like to play (and watch) poker (♦️♠️♥️♣️), to 
 Would you like to find me?
 
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/arielfelippi)](https://twitter.com/arielfelippi)
-
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/arielfelippi)](https://instagram.com/arielfelippi)
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/arielfelippi)](https://www.linkedin.com/in/arielfelippi)
